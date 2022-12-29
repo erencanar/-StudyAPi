@@ -1,0 +1,5 @@
+Flask
+gunicorn
+Pillow
+Flask-RESTfull
+pandas
